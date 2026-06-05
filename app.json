@@ -1,0 +1,25 @@
+{
+  "name": "ZxQuizBot",
+  "description": "Telegram Quiz Bot",
+  "repository": "",
+  "logo": "",
+  "keywords": [
+    "telegram",
+    "quiz",
+    "pyrogram"
+  ],
+  "env": {
+    "API_ID": {
+      "required": true
+    },
+    "API_HASH": {
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "required": true
+    },
+    "MONGO_URI": {
+      "required": true
+    }
+  }
+}
